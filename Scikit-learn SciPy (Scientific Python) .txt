@@ -1,0 +1,19 @@
+
+Scikit-learn provides a good amount of supervised and unsupervised (provides unlabeled data that the algorithm tries to make sense of by extracting features and patterns on its own) learning algorithms through a consistent interface. this helps engineers, to build the model very easily in a consistent manner.
+
+This stack that includes:
+
+Pandas: Data structures and analysis
+
+NumPy: Base n-dimensional array package
+
+SciPy: Fundamental library for scientific computing
+
+Matplotlib: Comprehensive 2D/3D plotting
+
+IPython: Enhanced interactive console
+
+Sympy: Symbolic mathematics
+
+Implementation Of Decision Tree Classifier Using Scikit-Learn
+
